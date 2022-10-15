@@ -1,0 +1,6 @@
+
+:root {
+    --shadowFirstShadow: 0 5px 12px 0 rgba(0,0,0,0.25);  
+    --shadowSecondShadow: 0 4px 4px 0 rgba(0,0,0,0.3);  
+    --shadowThirdShadow: 0 4px 10px 0 rgba(0,0,0,0.25);  
+}
